@@ -419,7 +419,7 @@ const q2 = (champion) => champion.data.Aatrox.skins.map((v) => v.name);
 
 
 const q3 = (skinslist) => champion.data.Aatrox.skins.map((v) => v.skinName.id);
-
+//
 // 4. From the skins list, I need an object that looks like this:
 
 // push items into an object
